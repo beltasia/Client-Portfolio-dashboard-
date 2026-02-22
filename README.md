@@ -50,7 +50,23 @@ streamlit run app.py
 
 The dashboard will open in your browser at `http://localhost:8501`
 
-## 📁 Project Structure
+## � Dashboard Screenshots
+
+Visual previews of all dashboard pages:
+
+| Page | Description |
+|------|-------------|
+| **Executive Dashboard** | High-level metrics with key performance indicators and portfolio health |
+| **Portfolio Overview** | Industry analysis, budget utilization, and quality metrics |
+| **Client Details** | Individual client deep-dive with engagements and deliverables |
+| **Engagement Analysis** | Project progress tracking with interactive filters |
+| **Monthly Briefing** | Revenue trends, hours spent, and satisfaction scores |
+| **At-Risk Items** | Quick alerts for over-budget, paused, and overdue items |
+| **Reports** | Comprehensive reporting with download capabilities |
+
+📷 *Screenshots coming soon! See [screenshots/](screenshots/) directory for detailed guide on capturing and organizing dashboard visualizations.*
+
+## �📁 Project Structure
 
 ```
 investment Consultant/
