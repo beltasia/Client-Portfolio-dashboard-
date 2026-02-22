@@ -1,0 +1,9 @@
+summary_id,client_id,month,year,revenue_generated,hours_spent,satisfaction_score,key_milestones,risks
+S001,C001,01,2024,45000,320,4.8,"Cloud planning started","None"
+S002,C001,02,2024,52000,380,4.7,"Architecture finalized","Schedule delay risk"
+S003,C002,01,2024,35000,240,4.9,"Compliance audit completed","None"
+S004,C002,02,2024,40000,290,4.8,"New policies drafted","Budget overrun pending"
+S005,C003,01,2024,28000,200,4.6,"Inventory review started","Data quality issues"
+S006,C003,02,2024,32000,240,4.7,"First recommendations delivered","None"
+S007,C004,01,2024,55000,400,4.9,"Production baseline established","None"
+S008,C004,02,2024,48000,350,4.8,"Supply chain mapping in progress","Vendor availability"

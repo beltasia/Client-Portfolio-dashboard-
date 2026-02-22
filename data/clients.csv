@@ -1,0 +1,7 @@
+client_id,client_name,industry,status,start_date,contract_value,manager
+C001,Tech Innovations Inc,Technology,Active,2023-01-15,500000,John Smith
+C002,Global Finance Corp,Financial Services,Active,2023-03-20,750000,Sarah Johnson
+C003,Retail Plus LLC,Retail,Active,2023-06-10,320000,Mike Chen
+C004,Manufacturing Solutions,Manufacturing,Active,2024-01-05,620000,Jennifer Lee
+C005,Healthcare Partners,Healthcare,Completed,2022-12-01,450000,Robert Wilson
+C006,Energy Systems Ltd,Energy,Paused,2023-08-15,800000,Patricia Garcia

@@ -1,0 +1,15 @@
+deliverable_id,engagement_id,deliverable_name,due_date,completion_date,status,quality_score
+D001,E001,Technical Assessment Report,2023-02-28,2023-02-25,Completed,95
+D002,E001,Architecture Design Document,2023-04-15,2023-04-18,Completed,92
+D003,E001,Implementation Roadmap,2023-06-30,2023-06-28,Completed,98
+D004,E002,Cloud Assessment,2024-03-15,2024-03-20,Completed,90
+D005,E002,Migration Strategy,2024-05-15,null,In Progress,null
+D006,E003,Risk Framework Document,2023-05-20,2023-05-18,Completed,96
+D007,E003,Policy Recommendations,2023-08-15,2023-08-10,Completed,94
+D008,E004,Compliance Audit Report,2024-01-15,null,In Progress,null
+D009,E005,Operations Report,2023-10-15,2023-10-14,Completed,93
+D010,E006,Inventory Analysis,2024-04-15,null,In Progress,null
+D011,E007,Efficiency Report,2024-06-15,null,In Progress,null
+D012,E008,Supply Chain Map,2024-07-15,null,Pending,null
+D013,E009,Workflow Documentation,2023-11-15,2023-11-12,Completed,97
+D014,E010,Market Report,2024-01-15,null,On Hold,null
